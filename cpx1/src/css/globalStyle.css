@@ -1,0 +1,12 @@
+.white-icon{
+    color: #ffffff;
+}
+
+.container{
+    padding-left:15vw;
+    padding-right:15vw;
+}
+
+.text__slashed{
+    text-decoration: line-through;
+}
